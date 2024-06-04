@@ -27,4 +27,4 @@
 
 
 ### IBM Introduction to Data Science
-<img src="intro-ds.png" alt="">
+<img src="intro-data.png" alt="">
