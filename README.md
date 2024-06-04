@@ -1,7 +1,7 @@
 ### IBM Full Stack Software Developer
 
 
-<img src="full.png" alt="">
+<img src="full-stack.png" alt="">
 
 
 ### IBM Applied Data Science
