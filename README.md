@@ -23,7 +23,7 @@
 
 
 ### IBM Machine Learning
-<img src="ibm-ml.png" alt="">
+<img src="ml.png" alt="">
 
 
 ### IBM Introduction to Data Science
