@@ -1,5 +1,5 @@
 ### IBM Data Analyst
-<img src="ibm-Analyst.png" alt="">
+<img src="pro.png" alt="">
 
 
 
