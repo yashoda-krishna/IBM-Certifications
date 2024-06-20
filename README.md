@@ -1,24 +1,26 @@
-### IBM Full Stack Software Developer
+# IBM Professional Certifications
+
+## IBM Full Stack Software Developer
 
 
 <img src="full-stack.png" alt="">
 
 
-### IBM Applied Data Science
+## IBM Applied Data Science
 
 <img src="applied pro.png" alt="">
 
 
-### IBM AI Engineer
+## IBM AI Engineer
 <img src="ib-ai.png" alt="">
 
 
-### IBM Data Analyst
+## IBM Data Analyst
 <img src="ibm-Analyst.png" alt="">
 
 
 
-### IBM Data science professional
+## IBM Data science professional
 <img src="ibm-ds.png" alt="">
 
 
